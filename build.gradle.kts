@@ -42,6 +42,7 @@ dependencies {
     "implementation"("com.google.guava:guava:${Versions.GUAVA}")
     "implementation"("com.google.code.findbugs:jsr305:1.3.9")
     "implementation"("com.googlecode.json-simple:json-simple:1.1")
+    "implementation"("org.mongodb:mongodb-driver-sync:4.7.1")
     "implementation"("org.xerial:sqlite-jdbc:3.7.2")
     "implementation"("com.destroystokyo.paper:paper-api:1.13.2-R0.1-SNAPSHOT")
 
